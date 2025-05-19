@@ -6,6 +6,14 @@
       "vscjava.vscode-java-test",
       "github.vscode-pull-request-github",
       "sugatoray.vscode-git-extension-pack",
-      "genuitecllc.codetogether"
+      "genuitecllc.codetogether",
+      "ms-python.python",
+      "redhat.fabric8-analytics",
+      "ms-toolsai.jupyter",
+      "ms-toolsai.vscode-jupyter-cell-tags",
+      "ms-toolsai.jupyter-keymap",
+      "ms-toolsai.jupyter-renderers",
+      "ms-toolsai.vscode-jupyter-slideshow",
+      "ms-vscode.js-debug"
     ]
 }
